@@ -2,8 +2,8 @@
   "name": "zerorpc",
   "version": "0.9.7",
   "main": "./index.js",
-  "author": "bombelazerorpc@gmail.com",
-  "description": "A port of ZeroRPC to node.js",
+  "author": "bombelazerorpc",
+  "description": "A port of ZeroRPC to nodejs",
   "contributors": [
     {
       "name": "Francois-Xavier Bourlet",
